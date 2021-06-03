@@ -7,9 +7,9 @@ class App extends Component {
         return(
             <div id="main">
                     <ol key="relativeList">
-                        <li key="relativeListitem1">Ram</li>
-                        <li key="relativeListitem2">Sam</li>
-                        <li key="relativeListitem3">Jodu</li>
+                        <li key="relativeListItem1">Ram</li>
+                        <li key="relativeListItem2">Sam</li>
+                        <li key="relativeListItem3">Jodu</li>
                 
                     </ol>
             </div>
