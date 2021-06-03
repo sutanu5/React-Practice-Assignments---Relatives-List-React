@@ -9,7 +9,7 @@ class App extends Component {
                     <ol key="relativeList">
                         <li key="relativeListItem1">Ram</li>
                         <li key="relativeListItem2">Sam</li>
-                        <li key="relativeListItem3">Jodu</li>
+                        
                 
                     </ol>
             </div>
