@@ -6,10 +6,10 @@ class App extends Component {
 
         return(
             <div id="main">
-                    <ol id="relativeList">
-                        <li id="relativeListitem1">Ram</li>
-                        <li id="relativeListitem2">Sam</li>
-                        <li id="relativeListitem3">Jodu</li>
+                    <ol key="relativeList">
+                        <li key="relativeListitem1">Ram</li>
+                        <li key="relativeListitem2">Sam</li>
+                        <li key="relativeListitem3">Jodu</li>
                 
                     </ol>
             </div>
